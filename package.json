@@ -1,0 +1,12 @@
+{
+  "name": "@walleted/monorepo",
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "typescript": "5.1.6",
+    "turbo": "1.10.7"
+  },
+  "scripts": {
+    "build": "turbo build --no-update-notifier --no-daemon"
+  }
+}
