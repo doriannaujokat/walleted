@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    // Versions
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "nodenext",
+    // JS
+    "allowJs": true,
+    "checkJs": true,
+    // Output
+    "declaration": true,
+    "sourceMap": true,
+    "noEmitOnError": true,
+    // Config
+    "noEmitHelpers": true,
+    "noImplicitOverride": true,
+    "noUncheckedIndexedAccess": true,
+    "forceConsistentCasingInFileNames": true,
+    "preserveConstEnums": true
+  }
+}
